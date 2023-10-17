@@ -12,7 +12,7 @@ factors that contribute to terrorist activities.
 
 **Golden Task-**
 
-2. Breast Cancer Prediction
+2. Breast Cancer Prediction-
 The objective of this project is to create a predictive model that can accurately classify breast
 cancer cases as benign or malignant based on a set of relevant features. By leveraging
 historical data and applying machine learning techniques, we aim to develop a reliable tool for
@@ -22,14 +22,14 @@ Phase 2 Assignments:
 
 **Normal Task-**
 
-3.Email Spam Detection
+3.Email Spam Detection-
 The goal of this project is to develop a robust email spam detection system using machine
 learning techniques. By analyzing the content and characteristics of emails, the system should
 be able to accurately classify incoming emails as either spam or legitimate (ham).
 
 **Golden Task-**
 
-4. Speech Emotion Recognition
+4. Speech Emotion Recognition-
 The objective of this project is to develop a robust speech emotion recognition system capable
 of accurately classifying the emotional states conveyed in spoken language. By analyzing the
 acoustic features of speech signals, the system should be able to categorize emotions such as
