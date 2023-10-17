@@ -1,7 +1,7 @@
 # CodersCave-Internship
 Domain:**Data Science**
 
-Phase 1 Assignments:
+**Phase 1 Assignments:**
 
 **Normal Task-**
 1. Exploratory Data Analysis - Terrorism
@@ -18,7 +18,7 @@ cancer cases as benign or malignant based on a set of relevant features. By leve
 historical data and applying machine learning techniques, we aim to develop a reliable tool for
 assisting medical professionals in diagnosing breast cancer.
 
-Phase 2 Assignments:
+**Phase 2 Assignments:**
 
 **Normal Task-**
  
