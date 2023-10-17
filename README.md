@@ -4,7 +4,7 @@ Domain:**Data Science**
 **Phase 1 Assignments:**
 
 **Normal Task-**
-1. Exploratory Data Analysis - Terrorism
+1. Exploratory Data Analysis (Terrorism)-
 The goal of this project is to perform Exploratory Data Analysis (EDA) on the terrorism dataset
 to extract meaningful insights and patterns. By analyzing the dataset, we aim to uncover
 trends, identify high-risk regions, understand attack characteristics, and potentially reveal
